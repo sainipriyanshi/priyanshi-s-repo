@@ -18,7 +18,9 @@ git clone <link>
 3.   cd- change directory (jb bahr vale folder se ander vale foler me jana ho)
 4.    ls for list file in folder
 5.    ls -a for mac,ls -Force for window => to display hidden files 
-6. add - adds new or changed files in your working directory to the git staging area
-     git add<-file name->
-7. commit - it is the record of change
-      git commit -m"some message"
+6.    add - adds new or changed files in your working directory to the git staging area
+           git add<-file name->
+7.    commit - it is the record of change
+           git commit -m"some message"
+8.   Puch command - upload local repo content to remote repo
+        git push origin main
